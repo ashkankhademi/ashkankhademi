@@ -1,30 +1,10 @@
-👋 Hi, I'm Ashkan Khademi
-🎓 CS Grad from York University
-💻 Software Developer Intern @ ReliablyME
-📍 Toronto, Canada
+### 👋 Hi, I'm Ashkan Khademi
 
-🛠️ Tech Stack
-Java | Python | JavaScript | SQL | React | Node.js | Express | Spring
-
-🚀 Building
-📊 Cohort analysis tools with Python
-
-🌐 Full-stack apps with React & Express
-
-🧪 Exploring web dev & data-driven projects
-
-🔧 Projects
-🎵 Music Recommender (Last.fm API)
-
-🎥 RTSP Video Client (Java, Sockets)
-
-🏥 Hospital Management System
-
-💰 Budgeting App (Java, JSON)
-
-📫 Contact
-📧 ashkhademii@gmail.com
-🔗 LinkedIn | GitHub
+🎓 Computer Science graduate from York University<br>
+💻 Software Developer Intern @ ReliablyME<br>
+🚀 Building cohort analysis tools, full-stack web apps, and data-driven solutions<br>
+📊 Passionate about backend systems, clean code, and product-focused development<br>
+📍 Toronto, Canada | 📧 ashkhademii@gmail.com<br>
 
 
 
