@@ -1,11 +1,12 @@
-## 👋 Hi, I'm Ashkan Khademi
+# 👋 Hi, I'm Ashkan Khademi
 
 🎓 Computer Science graduate from York University<br>
 💻 Software Developer Intern @ ReliablyME<br>
 🚀 Building full-stack web apps and data-driven solutions<br>
 📊 Passionate about backend systems, clean code, and product-focused development<br>
 📍 Toronto, Canada | 📧 ashkhademii@gmail.com<br>
-🔗 [LinkedIn](https://linkedin.com/in/ashkankhademi) • [GitHub](https://github.com/ashkankhademi)
+🔗 [Resume](https://drive.google.com/file/d/1o7pYls3tGHSMQa8eL-8a2Xrurx45Md2E/view)
+
 
 
 ## 🌐 Socials:
