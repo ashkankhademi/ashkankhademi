@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashkan Khademi
+# 👋 Hi, I'm Ashkan
 
 🎓 Computer Science graduate from York University<br>
 💻 Software Developer Intern @ ReliablyME<br>
