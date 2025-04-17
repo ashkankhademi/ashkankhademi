@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I'm Ashkan Khademi
+🎓 Recent Computer Science Grad from York University
+💻 Software Developer Intern @ ReliablyME
+📍 Based in Toronto, Canada
 
-<!--
-**ashkankhademi/ashkankhademi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Languages: Java, Python, JavaScript, C, SQL, HTML/CSS
+Frameworks & Tools: React, Node.js, Express.js, EJS, Spring, JUnit, jQuery, Axios
 
-Here are some ideas to get you started:
+🚀 What I'm Working On
+🧠 Building AI-powered cybersecurity tools with Beta-VAE + Suricata
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Cohort analysis + customer retention modeling (Python, Pandas, NumPy)
+
+🌐 Full-stack apps with Node.js, Express, and React
+
+🔧 Projects
+🎵 Music Recommender App – Real-time suggestions via Last.fm API
+
+🎥 RTSP Client – Video streaming with TCP/UDP & MJPEG playback
+
+🏥 Hospital Management System – Java-based multi-user desktop app
+
+💰 Budgeting System – Transaction tracker using Agile & JSON
+
+🌱 Currently Learning
+Cloud deployments ☁️
+
+Scaling backend systems 🧩
+
+Advanced AI/ML techniques 🤖
+
+📫 Let's Connect
+📩 ashkhademii@gmail.com
+🔗 LinkedIn | Resume
