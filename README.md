@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ashkan
 
 🎓 Computer Science graduate from York University<br>
-💻 Software Developer Intern @ ReliablyME<br>
 🚀 Building full-stack web apps and data-driven solutions<br>
 📊 Passionate about backend systems, clean code, and product-focused development<br>
 📍 Toronto, Canada | 📧 ashkhademii@gmail.com<br>
